@@ -1,2 +1,3 @@
-# 01-semantic-challange
-repository for first homework assignment
+# first week homework assignment -- Semantic tags
+
+## 
