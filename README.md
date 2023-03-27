@@ -8,4 +8,6 @@ in index.html, moved <title> up from line 7 to 5 so the heading is in sequential
 chaged <div> elements to <header> line 11,
 changed <div> elements to <section> line 28,
 changed <div> elements to <h2> line 27,
-changed <div> elements to <footer> line 74
+changed <div> elements to <footer> line 74,
+removed unnessasary tags line 12,
+changed the .header <div> in css to <nav> and adjsuted the html to match line 13
