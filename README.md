@@ -23,6 +23,7 @@ https://briancwilliams18.github.io/01-semantic-challange/
 
 ## Screenshots
 
-!["a screenshot of the Top of the hersion social media website.">](assets\images\Screenshot Top.png)
+![Screenshot of the top of the Herison website](./assets/images/Screenshot%20Top.png)
 
-!["a screenshot of the bottom of the hersion social media website.">](assets\images\Screenshot Bottom.png)git 
+![Screenshot of the bottom of the Hersion website](./assets/images/Screenshot%20Bottom.png)
+
