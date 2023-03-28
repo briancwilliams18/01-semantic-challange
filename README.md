@@ -3,6 +3,9 @@
 ## source code for the assingment
 https://github.com/coding-boot-camp/urban-octo-telegram.git
 
+## link to the site
+https://briancwilliams18.github.io/01-semantic-challange/
+
 ## changes made the the code
 -in index.html, moved <title> up from line 7 to 6 so the heading is in sequential order.
 
@@ -17,3 +20,5 @@ https://github.com/coding-boot-camp/urban-octo-telegram.git
 -added alt attributes to all images 
 
 -changed <title> to read as "Horisen" instead of "Website"
+
+![a screenshot of the hersion website used for coding practice](path/to/image.png "Hersion site sceenshot")
