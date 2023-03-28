@@ -21,6 +21,8 @@ https://briancwilliams18.github.io/01-semantic-challange/
 
 -changed <title> to read as "Horisen" instead of "Website"
 
-![a screenshot of the top of the hersion social media website](../01-semantic-challange/assets/images/Screenshot%20Top.png "Hersion site sceenshot top")
+## Screenshots
 
-![a screenshot of the bottom of the hersion social mediawebsite](../01-semantic-challange/assets/images/Screenshot%20Top.png "Hersion site sceenshot bottom")git
+!["a screenshot of the Top of the hersion social media website.">](../01-semantic-challange/assets/images/Screenshot%20Top.png)
+
+!["a screenshot of the bottom of the hersion social media website.">](../01-semantic-challange/assets/images/Screenshot%20Bottom.png)
