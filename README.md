@@ -10,7 +10,9 @@ https://github.com/coding-boot-camp/urban-octo-telegram.git
 removed unnessasary tags line 12
 
 -in css, removed repeated styles and created new classes to help, such as .card and .benefit, and adjusted the html to match the new classes.
-removed unnessasary id tags from lines 43, 36
+
+-removed unnessasary id tags from lines 43, 36
 
 -added alt attributes to all images 
+
 -changed <title> to read as "Horisen" instead of "Website"
